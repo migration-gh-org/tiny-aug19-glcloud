@@ -1,3 +1,4 @@
+# Base Image
 FROM debian:bookworm-slim AS builder
 
 # need git, openjdk and android sdk
